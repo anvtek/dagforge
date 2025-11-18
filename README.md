@@ -1,13 +1,14 @@
 # DAGForge
 
-🚀 **Build Airflow DAGs with AI in minutes, not weeks**
+🚀 **Build Apache Airflow® DAGs with AI in minutes, not weeks**
 
-DAGForge is the only platform that combines AI-powered code generation with visual drag-and-drop to build Apache Airflow DAGs. Describe your pipeline in plain English or build visually—get production-ready Airflow DAGs instantly.
+DAGForge combines AI-powered code generation with visual drag-and-drop to build Apache Airflow® DAGs. Describe your pipeline in plain English or build visually—get production-ready Apache Airflow DAGs instantly.
 
 [![Website](https://img.shields.io/badge/Website-dagforge.com-blue)](https://dagforge.com)
-[![Documentation](https://img.shields.io/badge/Docs-dagforge.com-green)](https://dagforge.com/docs)
-[![Twitter](https://img.shields.io/badge/Twitter-@anvtek-1DA1F2)](https://x.com/anvtek)
 
+[![Documentation](https://img.shields.io/badge/Docs-dagforge.com-green)](https://dagforge.com/docs)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@anvtek-1DA1F2)](https://x.com/anvtek)
 
 ![DAGForge Demo](DAGForge_Build_Airflow_DAGs_in_Minutes_Not_Weeks__AIPowered.gif)
 
@@ -17,18 +18,20 @@ DAGForge is the only platform that combines AI-powered code generation with visu
 - **🎨 Visual Drag-and-Drop Editor** - Build complex workflows without writing code
 - **✅ Production-Ready Output** - Complete implementations with error handling, logging, and best practices
 - **🔍 Real-Time Validation** - Catch errors before deployment
-- **🚀 One-Click Deployment** - Deploy to your Airflow instance instantly
+- **🚀 One-Click Deployment** - Deploy to your Apache Airflow instance instantly
 - **🔒 Enterprise Security** - SOC 2 ready, multi-tenant architecture
 
 ## 🎯 Why DAGForge?
 
-Building Airflow DAGs manually takes weeks. Data engineers waste time:
+Building Apache Airflow DAGs manually takes weeks. Data engineers waste time:
+
 - Writing boilerplate code
 - Debugging syntax errors
 - Managing complex dependencies
 - Hard to visualize workflows
 
 **DAGForge solves this:**
+
 - Save 10+ hours per DAG
 - Build in minutes, not weeks
 - Production-ready code from day one
@@ -38,8 +41,8 @@ Building Airflow DAGs manually takes weeks. Data engineers waste time:
 
 1. **Sign up free**: [dagforge.com](https://dagforge.com)
 2. **Describe your pipeline**: "Extract from PostgreSQL, transform, load to BigQuery daily"
-3. **Get production-ready code**: AI generates complete Airflow DAG
-4. **Deploy**: One-click deployment to your Airflow instance
+3. **Get production-ready code**: AI generates complete Apache Airflow DAG
+4. **Deploy**: One-click deployment to your Apache Airflow instance
 
 ## 📚 Documentation
 
@@ -77,3 +80,6 @@ If you find DAGForge useful, please give us a star ⭐ and share it with your ne
 
 **Built with ❤️ by [ANVTEK](https://anvtek.com)**
 
+---
+
+**Trademark Notice**: Apache®, Apache Airflow®, Airflow®, and the Apache feather logo are either registered trademarks or trademarks of the Apache Software Foundation.
