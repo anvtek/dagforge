@@ -8,6 +8,9 @@ DAGForge is the only platform that combines AI-powered code generation with visu
 [![Documentation](https://img.shields.io/badge/Docs-dagforge.com-green)](https://dagforge.com/docs)
 [![Twitter](https://img.shields.io/badge/Twitter-@anvtek-1DA1F2)](https://x.com/anvtek)
 
+
+![DAGForge Demo](DAGForge_Build_Airflow_DAGs_in_Minutes_Not_Weeks__AIPowered.gif)
+
 ## ✨ Features
 
 - **🤖 AI-Powered Code Generation** - Describe pipelines in plain English, get production-ready Python code
