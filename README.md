@@ -5,8 +5,8 @@
 DAGForge is the only platform that combines AI-powered code generation with visual drag-and-drop to build Apache Airflow DAGs. Describe your pipeline in plain English or build visually—get production-ready Airflow DAGs instantly.
 
 [![Website](https://img.shields.io/badge/Website-dagforge.com-blue)](https://dagforge.com)
-[![Documentation](https://img.shields.io/badge/Docs-docs.dagforge.com-green)](https://dagforge.com/docs)
-[![Twitter](https://img.shields.io/badge/Twitter-@DAGForge-1DA1F2)](https://twitter.com/DAGForge)
+[![Documentation](https://img.shields.io/badge/Docs-dagforge.com-green)](https://dagforge.com/docs)
+[![Twitter](https://img.shields.io/badge/Twitter-@anvtek-1DA1F2)](https://x.com/anvtek)
 
 ## ✨ Features
 
@@ -41,15 +41,14 @@ Building Airflow DAGs manually takes weeks. Data engineers waste time:
 ## 📚 Documentation
 
 - [Getting Started Guide](https://dagforge.com/docs)
-- [API Reference](https://dagforge.com/docs/api)
-- [Examples](https://dagforge.com/docs/examples)
-- [FAQ](https://dagforge.com/faq)
+- [Examples](https://dagforge.com/docs)
+- [Support & FAQ](https://dagforge.com/docs)
 
 ## 💬 Community
 
 - **Discussions**: Ask questions, share ideas, get help
 - **Issues**: Report bugs, request features
-- **Twitter**: [@DAGForge](https://twitter.com/DAGForge)
+- **Twitter**: [@anvtek](https://x.com/anvtek)
 - **Website**: [dagforge.com](https://dagforge.com)
 
 ## 🤝 Contributing
@@ -63,8 +62,8 @@ Copyright © 2025 ANVTEK. All rights reserved.
 ## 🔗 Links
 
 - **Website**: [dagforge.com](https://dagforge.com)
-- **Documentation**: [docs.dagforge.com](https://dagforge.com/docs)
-- **Twitter**: [@DAGForge](https://twitter.com/DAGForge)
+- **Documentation**: [dagforge.com/docs](https://dagforge.com/docs)
+- **Twitter**: [@anvtek](https://x.com/anvtek)
 - **Company**: [anvtek.com](https://anvtek.com)
 
 ## ⭐ Show Your Support
