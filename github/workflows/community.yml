@@ -1,0 +1,28 @@
+name: Community Health
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+  discussion:
+    types: [created]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome new contributors
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 Thanks for opening an issue! We'll review it soon.
+            
+            In the meantime, feel free to:
+            - Check our [documentation](https://dagforge.com/docs)
+            - Join our [Discussions](https://github.com/${{ github.repository }}/discussions)
+            - Follow [@anvtek](https://x.com/anvtek) for updates
+          pr-message: |
+            🎉 Thanks for your contribution! We'll review your PR soon.
+

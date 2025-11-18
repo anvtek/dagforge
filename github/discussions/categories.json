@@ -1,0 +1,28 @@
+[
+  {
+    "name": "General",
+    "description": "General discussions about DAGForge",
+    "emoji": "💬"
+  },
+  {
+    "name": "Q&A",
+    "description": "Questions and answers about using DAGForge",
+    "emoji": "❓"
+  },
+  {
+    "name": "Ideas",
+    "description": "Share ideas and suggestions for DAGForge",
+    "emoji": "💡"
+  },
+  {
+    "name": "Show and Tell",
+    "description": "Show off your DAGs and workflows built with DAGForge",
+    "emoji": "🎉"
+  },
+  {
+    "name": "Announcements",
+    "description": "Official announcements and updates",
+    "emoji": "📢"
+  }
+]
+
